@@ -1,7 +1,7 @@
 # Träningsaktivitetsvisualiserare
 
 ## Om projektet
-St8tus4U är en Java-baserad applikation för visualisering och analys av träningsaktiviteter utomhus. Projektet är utvecklat som en del av kursen DVG326 vid Högskolan i Gävle.
+St8tus4U är en Java-baserad applikation för visualisering och analys av träningsaktiviteter utomhus. Projektet är utvecklat som en del av kurs.
 
 ## Funktioner
 - **Användarhantering**: Stöd för flera användare med individuella profiler
