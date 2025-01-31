@@ -41,7 +41,6 @@ Baserat på dokumentationen ska jag hjälpa dig skapa en utförlig README för d
 
 ## CSV-filformat
 Applikationen accepterar CSV-filer med följande format:
-```
 Datum;Tid;Förfluten tid;Longitud;Latitud;Höjd;Distans;Puls;Hastighet;Kadens
 ```
 
